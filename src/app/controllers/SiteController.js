@@ -12,7 +12,6 @@ class SiteController {
                 // });
             })
             .catch(next);
-
     }
 
     //[GET] / search
